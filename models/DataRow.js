@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');
+var mongoose = require('../../node_modules/mongoose');
 var Schema = mongoose.Schema,
 ObjectId = Schema.ObjectId;
 

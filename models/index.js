@@ -1,6 +1,5 @@
 var path = require('path'),
     fs = require('fs'),
-    mongoose = require('mongoose'),
     files = fs.readdirSync(__dirname);
 
 files.forEach(function(file) {
