@@ -10,7 +10,7 @@ var DataRowModel = {
   dimension3: String,
   dimension4: String,
   dimension5: String,
-  dimension6: String,
+  dimension6: Number,
   dimension7: Number,
   dimension8: Number,
   metric: Number,
