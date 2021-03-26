@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Browsee/mongo-analytics#readme",
   "dependencies": {
-    "mongoose": "^4.13.8"
+    "mongoose": "^5.2.4"
   }
 }
